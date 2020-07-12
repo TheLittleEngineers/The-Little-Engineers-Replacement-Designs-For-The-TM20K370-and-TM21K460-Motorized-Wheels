@@ -71,3 +71,5 @@ Note that the use of the lazy susan style bearing assemblies implies a maximum s
 
 The next component to be designed will be the wheel mount panels that attach to the sides of this bearing plate and pivot assembly. The wheel mount pieces will actually be designed to bolt to the 1" (25.4mm) by 1" (25.4mm) square tube metal stock mentioned above. Several different side panels will be designed to allow the use of various commonly available motor/gearbox combinations such as the Cytron Product Code: KIT-PW-5WL "Motor Mount & 5 Inches Wheel Kit", 550-type plastic gearboxes from childrens ride-on toys and so on.
  
+ 
+ # We are looking for copies of the monthly Herbach and Rademan Catalogs from 1974 through 1987. Any assistance would be greatly appreciated.
