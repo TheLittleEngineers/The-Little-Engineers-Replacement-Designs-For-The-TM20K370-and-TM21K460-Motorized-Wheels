@@ -24,3 +24,6 @@ This component is designed to allow the use of rather common 65mm to 120mm wheel
 
 I prefer to work in the metric system when designing and machining parts, however, as any robotocist will likely tell you, you must be prepared to work in either a mixture of numerical systems or do the conversions from one to the other "on the fly". I suppose this has a lot to do with my countrys illogical resistance to conversion to the metric system. This reslts in tons of surplus motors, gears, bolts, nuts and so on specified in imperial units. Rather than argue the merits of metric units, I find it easier to "work with what I've got" and specify both units whenever possible, hopefully making the design understandable by all interested parties.
 
+
+
+# We are looking for copies of the monthly Herbach and Rademan Catalogs from 1974 through 1987. Any assistance would be greatly appreciated.
