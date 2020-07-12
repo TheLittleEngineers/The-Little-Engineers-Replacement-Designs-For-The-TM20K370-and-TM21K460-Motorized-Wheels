@@ -1,10 +1,12 @@
 # The Little Engineers Replacement Designs For The TM20K370 and TM21K460 Motorized Wheels
 
 The Little Engineers Replacement Designs For The TM20K370 and TM21K460 Motorized Wheels
+
 http://www.TheLittleEngineers.org/
+
 We are in search of machine shop(s) that might be willing to provide prototype level machining services in exchange for being listed as a recommended manufacturer and/or supplier in all of the open source projects created by The Little Engineers. Contact may be made via: https://www.facebook.com/OurLittleEngineers/ and/or https://www.facebook.com/groups/985537051651794/
 
-ll of the projects from The Little Engineers may be found here: https://github.com/TheLittleEngineers?tab=repositories
+All of the projects from The Little Engineers may be found here: https://github.com/TheLittleEngineers?tab=repositories
 
 <i>We intend, eventually, to acquire some small scale 3D Printers and CNC mills/routers to aid in our efforts, however we are currently unable to do so mainly due to finances - We try to operate The Little Engineers as much "out of pocket" as we possibly can. Supporting the Foster Care system is that important to us.</i>
 
