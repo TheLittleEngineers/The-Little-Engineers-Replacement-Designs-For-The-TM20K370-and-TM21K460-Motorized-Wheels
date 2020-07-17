@@ -1,0 +1,9 @@
+Wheel Formulas:
+
+X = Wheel Diameter
+Y = Motor RPM
+
+inches / second = XY(3.14159) / 60
+feet / second = XY(3.14159) / 720
+miles per hour (MPH) = XY(3.14159) / 1056
+
