@@ -15,4 +15,5 @@ In my quest to build Tod Loofbourrows "Microtron" Robot, it became necessary to 
 
 # We are looking for copies of the monthly Herbach and Rademan Catalogs from 1974 through 1987. Any assistance would be greatly appreciated.
 
-# NOTE: NOTHING HAS BEEN TESTED AS OF YET - PLEASE COMPARE ANYTHING WITH A 1:1 PRINTOUT OR MAKE A 3D PRINT BEFORE HAVING ANYTHING MANUFACTURED.
+# NOTE: NOTHING HAS BEEN TESTED AS OF YET - PLEASE COMPARE ANYTHING WITH A 1:1 PRINTOUT OR MAKE A 3D PRINT BEFORE HAVING ANYTHING MANUFACTURED!
+Deprecated and replaced by: https://github.com/TheLittleEngineers/Replacement-Designs-For-The-TM20K370-and-TM21K460-Motorized-Wheels
