@@ -1,3 +1,4 @@
+Deprecated and replaced by: https://github.com/TheLittleEngineers/Replacement-Designs-For-The-TM20K370-and-TM21K460-Motorized-Wheels
 The Little Engineers Robotics 65-120mm Wheel Mounting Plate for use in conjunction with The Little Engineers Robotics Bearing Plate and Pivot Assembly for motorized or free-spinning wheels.
 by Robert "The R.A.T." Allen Turner
 http://www.TheLittleEngineers.org/
